@@ -1,8 +1,8 @@
-# Untitled
+# API page
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
-Get Cakes
+Get Cakes?
 {% endapi-method-summary %}
 
 {% api-method-description %}

@@ -6,5 +6,5 @@
 ## MyGroup
 
 * [Two Page](mygroup/two-page.md)
-* [Untitled](mygroup/untitled.md)
+* [API page](mygroup/untitled.md)
 
